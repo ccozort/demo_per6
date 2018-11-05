@@ -1,5 +1,6 @@
 # this file was created by Chris Cozort
 # thanks Chris Bradfield from Kids Can Code.
+# I've not got this on github...
 
 import pygame as pg
 import random
